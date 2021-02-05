@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AudioApp</string>
+    <string name="grabar_audio">grabar audio</string>
+    <string name="reproducir_audio">reproducir audio</string>
+</resources>
